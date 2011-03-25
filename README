@@ -1,0 +1,17 @@
+Usage
+-----
+This application takes the 2010 Census Tract data from Esri located here: http://server.arcgisonline.com/ArcGIS/rest/services/Demographics
+
+Overlays the data on different maps
+
+This API requires several development tools which can be found on this page:
+http://help.arcgis.com/en/webapi/silverlight/help/index.html#/System_requirements/01660000000t000000/
+
+This uses the entire US data set avaialbe from Esri.
+The initial map extent can easily be changed.
+
+
+Contributing
+------------
+1.  Feel free to fork it.
+
